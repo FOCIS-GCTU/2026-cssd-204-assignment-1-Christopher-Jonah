@@ -11,16 +11,24 @@
 # and I have not provided this code to any other student.
 # Program name: CNAJ
 
-def main();
 
-print("""
-  ...CCCCCCCCCCCCC......NNNNN........NNNN........AAAAAAAAAA..........JJJJJJJJJJJJ......
-  ...CCCCCCCCCCCCC......NNNNNNN......NNNN.......AAAAAAAAAAAA.........JJJJJJJJJJJJ......
-  ...CCCC...............NNNN.NNN.....NNNN......AAAA.......AAAA...............JJJJ......
-  ...CCCC...............NNNN..NNNN...NNNN......AAAA.......AAAA...............JJJJ......   
-  ...CCCC...............NNNN...NNNN..NNNN......AAAAAAAAAAAAAAA...............JJJJ......  
-  ...CCCC...............NNNN....NNNN.NNNN......AAAA.......AAAA......JJJJ.....JJJJ......
-  ...CCCCCCCCCCCCC..**..NNNN.....NNNNNNNN..**..AAAA.......AAAA..**..JJJJJJJJJJJJJ..**..
-  ...CCCCCCCCCCCCC..**..NNNN........NNNNN..**..AAAA.......AAAA..**..JJJJJJJJJJJJJ..**.. 
-""")
+def main():
+    # This main function prints the initials of my name in block letters
+    print('')
+    print('...CNAJ')
+    print('')
+
+    print('')
+    print('...CCCCCCCCCCCCC......NNNNN.........NNNN........AAAAAAAAAAA.........JJJJJJJJJJJJJ......')
+    print('...CCCCCCCCCCCCC......NNNNNNN.......NNNN.......AAAAAAAAAAAAA........JJJJJJJJJJJJJ......')
+    print('...CCCC...............NNNN.NNN......NNNN......AAAA.......AAAA................JJJJ......')
+    print('...CCCC...............NNNN..NNNN....NNNN......AAAA.......AAAA................JJJJ......')
+    print('...CCCC...............NNNN...NNNN...NNNN......AAAAAAAAAAAAAAAA...............JJJJ......')
+    print('...CCCC...............NNNN....NNNN..NNNN......AAAA........AAAA......JJJJJ....JJJJ......')
+    print('...CCCCCCCCCCCCC..**..NNNN.....NNNNNNNNN..**..AAAA........AAAA..**..JJJJJJJJJJJJJ..**..')
+    print('...CCCCCCCCCCCCC..**..NNNN.......NNNNNNN..**..AAAA........AAAA..**..JJJJJJJJJJJJJ..**..')
+    print('')
+
+main()
+
 main()
